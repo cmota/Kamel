@@ -29,7 +29,7 @@ object Dependencies {
 
 private object Versions {
 
-    const val Kotlin = "1.6.21"
+    const val Kotlin = "1.6.10"
     const val Ktor = "2.0.2"
     const val Coroutines = "1.6.2"
     const val Compose = "1.1.1"
